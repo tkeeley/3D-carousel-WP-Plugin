@@ -6,7 +6,6 @@ Description: Displays images from a custom post type for a 3d circular carousel
 Version: 1.0
 Author: Cup O Code
 Author URI: https://cupocode.com
-License: GPL2
 */
 
 // Register the custom post type
