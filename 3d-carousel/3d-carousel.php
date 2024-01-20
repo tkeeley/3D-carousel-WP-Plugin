@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Jet Engine Exchange Carousel Plugin
+Plugin Name: 3D Photo Carousel Plugin
 Plugin URI: https://cupocode.com
 Description: Displays images from a custom post type for a 3d circular carousel
 Version: 1.0
